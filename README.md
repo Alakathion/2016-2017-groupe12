@@ -16,3 +16,8 @@ Journal de bord groupe 12
 
 
 ### Semaine 3
+
+- Réalisation du triangle de Pascal
+- Interaction avec la communauté sur Slack afin d'obtenir de l'aide sur comment "printer" en pharo
+- Création d'un compte sur http://ss3.gemtalksystems.com/
+- Nous avons refait 'Dice' et avons appris à vraiment sauvegarder notre code sur ss3
