@@ -27,8 +27,8 @@ Journal de bord groupe 12
 - Tentative d'installation de Pharo sur la session Linux du M5 grâce au bundle Snapcraft ; mais impossible d'installer Snapcraft (permissions non accordées)
 - Installation de Pharo 4 et Ecstatic sur Windows 8.1 grâce à Guille
 - Mise en lumière des améliorations et corrections pouvant être apportées au projet, en coordination avec Guille
-- A poursuivre: Apprentissage des commandes `cmd` Windows, et comment faire un fichier batch  
 - Nous avons trouvé un bug avec la génération du site internet et avons ajouté une issue au github ecstatic https://github.com/guillep/ecstatic/issues/8
+- A poursuivre: Apprentissage des commandes `cmd` Windows, et comment faire un fichier batch  
 -> Objectif de contribution : Scripts pour l'installation/l'utilisation d'Ecstatic sur Windows
 
 ### Semaine 5
