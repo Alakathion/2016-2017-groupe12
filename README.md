@@ -33,4 +33,4 @@ Journal de bord groupe 12
 
 ### Semaine 5
 
-- Gille nous a indiqué qu'il ne voulait pas d'un script qui modifie directement le PATH pour faciliter son installation, nous avons donc décidé de rajouter des explications au tutoriel d'installation.
+- Gille nous a indiqué qu'il ne voulait pas d'un script qui modifie directement le PATH pour faciliter son installation, nous avons donc décidé de rajouter des explications au tutoriel d'installation
